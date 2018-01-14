@@ -8,6 +8,7 @@
 	<link rel="stylesheet" href="main.css"/>
 </head>
  <body>
+	 <h1>Milestone 1</h1>
 	 <section class="purpose">
 		 <h2>Purpose, Audience & Goals</h2>
 		 <p>Purpose: This project will be my personal, professional website with a focus on showing that I can build tasteful, interesting websites.</p>
