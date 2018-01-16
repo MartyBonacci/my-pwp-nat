@@ -2,7 +2,7 @@ body {
 	margin: 10px;
 	font-family: "Times New Roman";
 	font-size: 1.5em;
-	background: linear-gradient(to bottom, rgba(0, 80, 255, 0.01), rgba(231, 253, 252, 0.54));
+	background: linear-gradient(to bottom, rgba(0, 80, 255, 0.01), rgba(173, 216, 230, 0.54));
 }
 
 h1, h2 {
@@ -11,5 +11,6 @@ h1, h2 {
 .purpose, .persona {
 	border: lightgreen 3px solid;
 	border-radius: 10%;
-	padding: 5%;
+	padding: 5px;
+	margin-bottom: 10px;
 }
