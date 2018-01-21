@@ -26,3 +26,12 @@
 			<br>
 			 <b>Contact:</b> This section will contain a simple contact form, with Sarah's details: email and phone as well as a message box to send a message directly on the site.
 			</p>
+
+	 </section>
+	 <section class="wireframe">
+		 <h1>Wireframes</h1>
+		 <img src="">
+	 </section>
+	 
+ </body>
+</html>
