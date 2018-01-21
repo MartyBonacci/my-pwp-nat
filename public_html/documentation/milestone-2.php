@@ -30,7 +30,7 @@
 	 </section>
 	 <section class="wireframe">
 		 <h1>Wireframes</h1>
-		 <img src="">
+		 <img src="images/wireframe-mobile.png" alt="wireframe of the mobile version of Sarah's site">
 	 </section>
 	 
  </body>
