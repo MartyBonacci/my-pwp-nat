@@ -1,8 +1,4 @@
 
-/**
- *@author Nat Gustafson <natjgus@gmail.com>
- *this is my Milestone 2 documentation including my wireframes and content strategy
- **/
 
 <!DOCTYPE html>
 <html lang="en">
@@ -18,15 +14,15 @@
 		 <h2>Content Strategy</h2>
 		 <p> My site will be one page, and will consist of the following sections:</p>
 		 <br>
-		 <p>Welcome: A brief one-line introduction that clearly states Sarah and Yoga Instructor. This welcome message will be overlaid on a large background image either pretty nature shot or yoga shot .
+		 <p><b>Welcome:</b> A brief one-line introduction that clearly states Sarah and Yoga Instructor. This welcome message will be overlaid on a large background image either pretty nature shot or yoga shot .
 			<br>
-			 About Sarah: This section will detail her professional history and a bit of her personal backstory. This will create and emotional connection with the viewer.
+			 <b>About Sarah:</b> This section will detail her professional history and a bit of her personal backstory. This will create and emotional connection with the viewer.
 		 	<br>
 		 	Below the About Sarah section will be her headshot (maybe this will be expandable from a smaller photo inline with the text.
 		 	<br>
-		 	Yoga Accomplishments: This section will highlight Sarah's teaching credentials and yoga achievements.
+			 <b>Yoga Accomplishments:</b> This section will highlight Sarah's teaching credentials and yoga achievements.
 			<br>
-			 Calendar: This section will be a calendar view of Sarah's weekly recurring classes.
+			 <b>Calendar:</b> This section will be a calendar view of Sarah's weekly recurring classes.
 			<br>
-			 Contact: This section will contain a simple contact form, with Sarah's details: email and phone as well as a message box to send a message directly on the site.
+			 <b>Contact:</b> This section will contain a simple contact form, with Sarah's details: email and phone as well as a message box to send a message directly on the site.
 			</p>
