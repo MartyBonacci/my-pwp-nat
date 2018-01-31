@@ -13,19 +13,17 @@
 	 <section class="purpose">
 		 <h2>Content Strategy</h2>
 		 <p> My site will be one page, and will consist of the following sections:</p>
-		 <br>
 		 <p><b>Welcome:</b> A brief one-line introduction that clearly states Sarah and Yoga Instructor. This site will be showcasing my photography skills as well so this will be a high quality image. On the mobile view this photo will take up the whole screen (possibly it will be a different photo that is not a wide landscape). On the full-screen layout the photo will be front and center with a nav bar above.
 			<br>
 		 <p></p><b>About Sarah:</b> This section will detail her professional yoga history and a bit of her personal backstory. This will create and emotional connection with the viewer. The text will be broken up by Sarah's headshot. </p>
-		 	<br>
 		 <div class="private-class">
 		 	<p><b>Private Classes:</b> The private classes section will contain a few lines of text about the benefits of private classes and other pertinent info.</p>
 		 </div>
 		 <div class="photo-gallery">
-		 	<p><b>Photo Gallery</b>Between the two class sections there will be a thumbnail with either 3 or 4 pictures that expand. The pictures will be from each class type (private, group, and family yoga). They will expand upon selection.
+		 	<p><b>Photo Gallery:</b> Between the two class sections there will be a thumbnail with either 3 or 4 pictures that expand. The pictures will be from each class type (private, group, and family yoga). They will expand upon selection.
 		 </div>
 		 <div class="group-class">
-			 <p><b>Public Classes/Schedule:</b>The poublic classes will be explained within the schedule. Each class will have a brief description with the time and date of the classes</p>
+			 <p><b>Public Classes/Schedule:</b> The public classes will be explained within the schedule. Each class will have a brief description with the time and date of the classes</p>
 		 </div>
 		 <p><b>Contact:</b> This section will contain a simple contact form, with Sarah's details: email and phone as well as a message box to send a message directly on the site.
 		 </p>
