@@ -4,7 +4,7 @@
 <html lang="en">
 
 <head>
-	<title>Nathaniel Gustafson's Pro Dev Doc</title>
+	<title>Milestone 2 for sarahgus.yoga</title>
 	<meta charset="utf-8" />
 	<link rel="stylesheet" href="css/main.css"/>
 </head>
