@@ -89,13 +89,16 @@
 		 <p>Sarah seeks to improve the overall health and well-being of her clients by offering private sessions that are integrative, educational, and rejuvenating. She often collaborates with local physical therapists and other body workers to facilitate patient recovery.</p>
 		 <p>Private sessions also provide the opportunity to focus on:</p>
 		 <ul>
-			 <li>ॐ	particular types of poses (ie standing poses, arm balances, inversions, twists, backbends, forward bends, restoratives)</li>
-			 <li>ॐ	specific areas of the body</li>
-			 <li>ॐ	experiential anatomy</li>
-			 <li>ॐ	yogic practices such as pranayama or meditation</li>
-			 <li>ॐ	using personalized adjustments and props—including Sarah’s yoga wall ropes!!—to deepen your poses</li>
+			 <li>particular types of poses (ie standing poses, arm balances, inversions, twists, backbends, forward bends, restoratives)</li>
+			 <li>specific areas of the body</li>
+			 <li>experiential anatomy</li>
+			 <li>yogic practices such as pranayama or meditation</li>
+			 <li>using personalized adjustments and props—including Sarah’s yoga wall ropes!!—to deepen your poses</li>
 		 </ul>
 		 </p>
+	 </div>
+	 <div class="container">
+		 <h2 class="text-center"></h2>
 	 </div>
 
  </body>
