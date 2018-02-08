@@ -6,7 +6,7 @@
 <head>
 	<title>Milestone 2 for sarahgus.yoga</title>
 	<meta charset="utf-8" />
-	<link rel="stylesheet" href="css/main.css"/>
+	<link rel="stylesheet" href="../css/main.css"/>
 </head>
  <body>
 	 <h1>Milestone 2: Sarah Gustafson's Yoga Page</h1>
@@ -30,9 +30,9 @@
 	 </section>
 	 <section class="wireframe">
 		 <h1>Mobile Wireframe</h1>
-		 <img src="images/sarahgus.yoga-mobile-wireframe.png" alt="wireframe of Sarah's mobile site">
+		 <img src="../images/sarahgus.yoga-mobile-wireframe.png" alt="wireframe of Sarah's mobile site">
 		 <h1>Desktop Wireframe</h1>
-		 <img src="images/sarahgus.yoga-desktop-wireframe.png" alt="wireframe of Sarah's desktop site">
+		 <img src="../images/sarahgus.yoga-desktop-wireframe.png" alt="wireframe of Sarah's desktop site">
 	 </section>
 	 
  </body>

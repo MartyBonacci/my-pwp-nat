@@ -18,6 +18,7 @@
 
 </head>
  <body>
+
 	 <div class="container">
 		 <nav class="navbar navbar-expand-lg navbar-toggleable-md navbar-light bg-light border rounded">
 			 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -34,6 +35,49 @@
 		 </nav>
 	 </div>
 		 </nav>
+	 </div>
+
+	 <div class="container">
+		 <div class="row">
+			 <div class="col-sm">
+				 <p>Sarah met yoga over tea one morning years ago, and they hit it off famously. She
+					 began teaching in 2008, and currently offers public classes and private sessions
+					 to adults and children in Los Alamos, New Mexico.</p>
+				 <p>With a background in both biology and science writing, Sarah views yoga in part
+					 as a process of deciphering the stories encoded in our bodies. She encourages
+					 her students to explore their own somatic stories with a spirit of curiosity and
+					 appreciation. She also brings this narrative approach to her teaching, whether
+					 taking four-year olds on an adventure to outer-space or adults on a search for
+					 their psoas.</p>
+				 <p>
+					 A lifelong student, Sarah’s primary teachers are Tias and Surya Little, founders
+					 of Prajna Yoga, a world-renowned school that weaves asana, anatomy, and
+					 mindfulness training. Sarah assists at Prajna Teacher Trainings and workshops
+					 in Santa Fe on a regular basis
+					</p>
+			 </div>
+			 <div class="col-sm">Image</div>
+			 <div class="col-sm">
+				 <p> In recent years, Sarah has been delving deeply into Prajna’s SATYA (Sensory
+					 Awareness Training for Yoga Attunement). This body of work combines cutting-
+					 edge somatic movement with yogasana to cultivate inner listening and heighten
+					 proprioceptive awareness. A graduate of the comprehensive SATYA training
+					 program, Sarah is one of the few instructors certified to teach this work.
+					 Sarah trains in therapeutic yoga with Robin Rothenberg, and is certified to teach
+					 Robin’s highly effective Essential Low Back Program. She has also studied with
+					 such master teachers as Carrie Owerko, Richard Rosen, Paul Cabanis, and
+					 Patricia Walden.</p>
+				 <p>When she’s not on the mat, Sarah’s probably outside growing food and flowers,
+					 hiking, or rock climbing with her husband and pugs. She also teaches
+					 environmental education for the Pajarito Environmental Education Center, which
+					 she helped found in 2001.</p>
+				 <p>The mother of three adult children, Sarah’s yoga journey has always been a
+					 practice of crafting a constantly evolving balance between the various facets of a
+					 full and meaningful life. She strives to impart her passion for yoga by offering
+					 classes that are inclusive, inspiring, and playful.</p>
+			 </div>
+		 </div>
+
 	 </div>
 
  </body>
