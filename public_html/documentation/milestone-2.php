@@ -6,7 +6,7 @@
 <head>
 	<title>Milestone 2 for sarahgus.yoga</title>
 	<meta charset="utf-8" />
-	<link rel="stylesheet" href="../css/main.css"/>
+	<link rel="stylesheet" href="../css/milestone.css"/>
 </head>
  <body>
 	 <h1>Milestone 2: Sarah Gustafson's Yoga Page</h1>

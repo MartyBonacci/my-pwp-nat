@@ -10,7 +10,7 @@
 	<!--- Next add the bootstrap CSS --->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	<!-- Add your own CSS here, -->
-
+	<link rel="stylesheet" href="css/main.css">
 	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
 	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
@@ -37,27 +37,32 @@
 		 </nav>
 	 </div>
 
-	 <div class="container">
+	 <div class="container py-5">
+		 <div class="jumbotron mt-4">
+			 <h2>About Sarah</h2>
+		 </div>
 		 <div class="row">
-			 <div class="col-sm">
+			 <div class="col-sm-12 col-lg-4">
 				 <p>Sarah met yoga over tea one morning years ago, and they hit it off famously. She
 					 began teaching in 2008, and currently offers public classes and private sessions
 					 to adults and children in Los Alamos, New Mexico.</p>
+
 				 <p>With a background in both biology and science writing, Sarah views yoga in part
 					 as a process of deciphering the stories encoded in our bodies. She encourages
 					 her students to explore their own somatic stories with a spirit of curiosity and
 					 appreciation. She also brings this narrative approach to her teaching, whether
 					 taking four-year olds on an adventure to outer-space or adults on a search for
 					 their psoas.</p>
-				 <p>
-					 A lifelong student, Sarah’s primary teachers are Tias and Surya Little, founders
+
+				 <p>A lifelong student, Sarah’s primary teachers are Tias and Surya Little, founders
 					 of Prajna Yoga, a world-renowned school that weaves asana, anatomy, and
 					 mindfulness training. Sarah assists at Prajna Teacher Trainings and workshops
-					 in Santa Fe on a regular basis
-					</p>
+					 in Santa Fe on a regular basis</p>
 			 </div>
-			 <div class="col-sm">Image</div>
-			 <div class="col-sm">
+			 <div class="col-sm-12 col-lg-4">
+				 <img src="images/sarah-gustafson-headshot.jpg" class="image-thumbnail" alt="Sarah Gustafson's Headshot">
+			 </div>
+			 <div class="col-sm-12 col-lg-4">
 				 <p> In recent years, Sarah has been delving deeply into Prajna’s SATYA (Sensory
 					 Awareness Training for Yoga Attunement). This body of work combines cutting-
 					 edge somatic movement with yogasana to cultivate inner listening and heighten
@@ -77,7 +82,20 @@
 					 classes that are inclusive, inspiring, and playful.</p>
 			 </div>
 		 </div>
+	 </div>
 
+	 <div class="container">
+		 <h2 class="text-center">Private Classes</h2>
+		 <p>Sarah seeks to improve the overall health and well-being of her clients by offering private sessions that are integrative, educational, and rejuvenating. She often collaborates with local physical therapists and other body workers to facilitate patient recovery.</p>
+		 <p>Private sessions also provide the opportunity to focus on:</p>
+		 <ul>
+			 <li>ॐ	particular types of poses (ie standing poses, arm balances, inversions, twists, backbends, forward bends, restoratives)</li>
+			 <li>ॐ	specific areas of the body</li>
+			 <li>ॐ	experiential anatomy</li>
+			 <li>ॐ	yogic practices such as pranayama or meditation</li>
+			 <li>ॐ	using personalized adjustments and props—including Sarah’s yoga wall ropes!!—to deepen your poses</li>
+		 </ul>
+		 </p>
 	 </div>
 
  </body>

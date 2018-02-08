@@ -5,7 +5,7 @@
 <head>
 	<title>Nathaniel Gustafson's Pro Dev Doc</title>
 	<meta charset="utf-8" />
-	<link rel="stylesheet" href="../css/main.css"/>
+	<link rel="stylesheet" href="../css/milestone.css"/>
 </head>
  <body>
 	 <h1>Milestone 1: Sarah Gustafson's Yoga Page</h1>
