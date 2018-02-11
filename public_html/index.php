@@ -39,9 +39,7 @@
 	 </div>
 
 	 <div class="container py-5">
-		 <div class="jumbotron mt-4">
-			 <h4>About Sarah</h4>
-		 </div>
+			 <h2>About Sarah</h2>
 		 <div class="row">
 			 <div class="col-sm-12 col-lg-4">
 				 <p>Sarah met yoga over tea one morning years ago, and they hit it off famously. She
@@ -76,7 +74,7 @@
 	 </div>
 
 	 <div class="container">
-		 <h2 class="text-center">Private Classes</h2>
+		 <h2>Private Classes</h2>
 		 <p>Sarah seeks to improve the overall health and well-being of her clients by offering private sessions that are integrative, educational, and rejuvenating. She often collaborates with local physical therapists and other body workers to facilitate patient recovery.</p>
 		 <p>Private sessions also provide the opportunity to focus on:</p>
 		 <ul>
@@ -88,10 +86,24 @@
 		 </ul>
 		 </p>
 	 </div>
-	 <div class="container">
-		 <h2 class="text-center"></h2>
-	 </div>
 
+	 <div class="container">
+		 <h2>Send Sarah a Note!</h2>
+		 <form style="border:1px solid #cecece">
+			 <div class="form-group row">
+				 <input type="text" class="form-control" id="inputName" placeholder="Name">
+			 </div>
+			 <div class="form-group row">
+				 <input type="email" class="form-control" id="InputEmail" placeholder="Email">
+			 </div>
+			 <div class="form-group row"> <!-- Message input !-->
+				 <textarea class="form-control" id="message_id" name="message" placeholder="Type message here!" rows="5"></textarea>
+			 </div>
+			 <div class="form-group row"> <!-- Submit button !-->
+				 <button class="btn btn-primary " name="submit" type="submit">Submit</button>
+			 </div>
+		 </form>
+	 </div>
 
 
  </body>
