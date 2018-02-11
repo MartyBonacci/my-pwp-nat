@@ -11,6 +11,7 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	<!-- Add your own CSS here, -->
 	<link rel="stylesheet" href="css/main.css">
+	<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
 	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
 	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
@@ -39,7 +40,7 @@
 
 	 <div class="container py-5">
 		 <div class="jumbotron mt-4">
-			 <h2>About Sarah</h2>
+			 <h4>About Sarah</h4>
 		 </div>
 		 <div class="row">
 			 <div class="col-sm-12 col-lg-4">
@@ -53,33 +54,23 @@
 					 appreciation. She also brings this narrative approach to her teaching, whether
 					 taking four-year olds on an adventure to outer-space or adults on a search for
 					 their psoas.</p>
-
-				 <p>A lifelong student, Sarah’s primary teachers are Tias and Surya Little, founders
-					 of Prajna Yoga, a world-renowned school that weaves asana, anatomy, and
-					 mindfulness training. Sarah assists at Prajna Teacher Trainings and workshops
-					 in Santa Fe on a regular basis</p>
 			 </div>
 			 <div class="col-sm-12 col-lg-4">
 				 <img src="images/sarah-gustafson-headshot.jpg" class="image-thumbnail" alt="Sarah Gustafson's Headshot">
 			 </div>
 			 <div class="col-sm-12 col-lg-4">
-				 <p> In recent years, Sarah has been delving deeply into Prajna’s SATYA (Sensory
-					 Awareness Training for Yoga Attunement). This body of work combines cutting-
-					 edge somatic movement with yogasana to cultivate inner listening and heighten
-					 proprioceptive awareness. A graduate of the comprehensive SATYA training
-					 program, Sarah is one of the few instructors certified to teach this work.
-					 Sarah trains in therapeutic yoga with Robin Rothenberg, and is certified to teach
-					 Robin’s highly effective Essential Low Back Program. She has also studied with
-					 such master teachers as Carrie Owerko, Richard Rosen, Paul Cabanis, and
-					 Patricia Walden.</p>
-				 <p>When she’s not on the mat, Sarah’s probably outside growing food and flowers,
-					 hiking, or rock climbing with her husband and pugs. She also teaches
-					 environmental education for the Pajarito Environmental Education Center, which
-					 she helped found in 2001.</p>
-				 <p>The mother of three adult children, Sarah’s yoga journey has always been a
-					 practice of crafting a constantly evolving balance between the various facets of a
-					 full and meaningful life. She strives to impart her passion for yoga by offering
-					 classes that are inclusive, inspiring, and playful.</p>
+				 <p>A lifelong student, Sarah’s primary teachers are <a href="http://www.prajnayoga.net/tias-little/" target="_blank">Tias</a> and <a href="http://www.prajnayoga.net/surya/" target="_blank">Surya</a> Little, founders
+					 of <a href="http://www.prajnayoga.net/" target="_blank">Prajna Yoga</a>, a world-renowned school that weaves asana, anatomy, and
+					 mindfulness training. Sarah assists at Prajna Teacher Trainings and workshops
+					 in Santa Fe on a regular basis, and is one of the few instructors certified to teach
+					 Prajna’s SATYA movements. Sarah also trains in therapeutic yoga with <a href="https://essentialyogatherapy.com/about/" target="_blank">Robin
+						 Rothenberg</a>, and is certified to teach Robin’s highly effective <a href="https://essentialyogatherapy.com/essential-low-back-teacher-training/" target="_blank">Essential Low Back
+						 Program</a>.</p>
+				 <p>When she’s not on the mat, Sarah’s probably outside growing food and flowers,hiking, or rock climbing with her husband and pugs. The mother of three adult
+					 children, Sarah’s yoga journey has always been a practice of crafting a
+					 constantly evolving balance between the various facets of a full and meaningful
+					 life. She strives to impart her passion for yoga by offering classes that are
+					 inclusive, inspiring, and playful.</p>
 			 </div>
 		 </div>
 	 </div>
@@ -100,6 +91,8 @@
 	 <div class="container">
 		 <h2 class="text-center"></h2>
 	 </div>
+
+
 
  </body>
 </html>
