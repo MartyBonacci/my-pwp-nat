@@ -87,20 +87,20 @@
 		 </p>
 	 </div>
 
-	 <div class="container">
+	 <div class="container pt-5">
 		 <h2>Send Sarah a Note!</h2>
-		 <form style="border:1px solid #cecece">
-			 <div class="form-group row">
+		 <form class="container p-3" style="border:1px solid #cecece">
+			 <div class="form-group row pl-3 pr-3">
 				 <input type="text" class="form-control" id="inputName" placeholder="Name">
 			 </div>
-			 <div class="form-group row">
+			 <div class="form-group row pl-3 pr-3">
 				 <input type="email" class="form-control" id="InputEmail" placeholder="Email">
 			 </div>
-			 <div class="form-group row"> <!-- Message input !-->
+			 <div class="form-group row pl-3 pr-3"> <!-- Message input !-->
 				 <textarea class="form-control" id="message_id" name="message" placeholder="Type message here!" rows="5"></textarea>
 			 </div>
-			 <div class="form-group row"> <!-- Submit button !-->
-				 <button class="btn btn-primary " name="submit" type="submit">Submit</button>
+			 <div class="form-group row pl-3 pr-3"> <!-- Submit button !-->
+				 <button class="btn btn-primary mx-auto" name="submit" type="submit">Submit</button>
 			 </div>
 		 </form>
 	 </div>
