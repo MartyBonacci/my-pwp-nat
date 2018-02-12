@@ -20,8 +20,10 @@
 </head>
  <body>
 
-	 <div class="container">
-		 <nav class="navbar navbar-expand-lg navbar-toggleable-md navbar-light bg-light border rounded">
+	 <div class="container-fluid">
+
+		 <a class="navbar-brand" href="#">Sarah Gustafson Yoga</a>
+		 <nav class="navbar navbar-expand-lg navbar-toggleable-md float-md-right navbar-light bg-light border rounded">
 			 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
 				 <span class="navbar-toggler-icon"></span>
 			 </button>
@@ -34,10 +36,12 @@
 				 </div>
 			 </div>
 		 </nav>
-	 </div>
-		 </nav>
-	 </div>
+		 <img src="images/sarah-gustafson-yoga-landscape.jpg" alt="Sarah Gustafson's Yoga landing image">
 
+	 </div>
+	 <div class="sqs-block-content">
+		 <hr>
+	 </div>
 	 <div class="container py-5">
 			 <h2>About Sarah</h2>
 		 <div class="row">
@@ -72,7 +76,9 @@
 			 </div>
 		 </div>
 	 </div>
-
+	 <div class="sqs-block-content">
+		 <hr>
+	 </div>
 	 <div class="container">
 		 <h2>Private Classes</h2>
 		 <p>Sarah seeks to improve the overall health and well-being of her clients by offering private sessions that are integrative, educational, and rejuvenating. She often collaborates with local physical therapists and other body workers to facilitate patient recovery.</p>
@@ -86,7 +92,24 @@
 		 </ul>
 		 </p>
 	 </div>
+	 <div class="sqs-block-content">
+		 <hr>
+	 </div>
+	 <div class="container">
+		<h2>Public Classes</h2>
+		<p>Prajna Yoga integrates the outer practice of asana with deep insight into the inner experience. Sarah’s skillfully sequenced classes combine guided alignment and somatic awareness with breath-based movement to nourish and challenge students of all levels.
+		</p>
+		<h5>Mixed-level adult classes: beginners and all body types welcome</h5>
+		<ul>
+			<li>Mondays, 6:00-7:30 pm (except most Monday holidays)</li>
+			<p>Unitarian Church, 1738 North Sage Street, Los Alamos</p>
+			<p>Drop-in: $15; 4-punch pass: $50; 8-punch pass: $92</p>
 
+			<li>Thursdays, 5:45-6:45 pm</li>
+			<p>Los Alamos Senior Center, 1101 Bathrub Row, Los Alamos</p>
+			<p>Drop in: $12<b>(First class free!)</b>; 4-punch pass: $40; 8-punch pass: $72</p>
+		</ul>
+	 </div>
 	 <div class="container pt-5">
 		 <h2>Send Sarah a Note!</h2>
 		 <form class="container p-3" style="border:1px solid #cecece">
