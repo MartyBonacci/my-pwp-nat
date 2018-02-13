@@ -20,8 +20,8 @@
 </head>
  <body>
 
-	 <div class="container-fluid">
 
+	 <div class="container-fluid">
 		 <a class="navbar-brand" href="#">Sarah Gustafson Yoga</a>
 		 <nav class="navbar navbar-expand-lg navbar-toggleable-md float-md-right navbar-light bg-light border rounded">
 			 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -95,6 +95,8 @@
 	 <div class="sqs-block-content">
 		 <hr>
 	 </div>
+
+
 	 <div class="container">
 		<h2>Public Classes</h2>
 		<p>Prajna Yoga integrates the outer practice of asana with deep insight into the inner experience. Sarah’s skillfully sequenced classes combine guided alignment and somatic awareness with breath-based movement to nourish and challenge students of all levels.
@@ -102,13 +104,32 @@
 		<h5>Mixed-level adult classes: beginners and all body types welcome</h5>
 		<ul>
 			<li>Mondays, 6:00-7:30 pm (except most Monday holidays)</li>
-			<p>Unitarian Church, 1738 North Sage Street, Los Alamos</p>
-			<p>Drop-in: $15; 4-punch pass: $50; 8-punch pass: $92</p>
-
+			<li style="list-style-type:none">
+				<ul>
+					<li>Unitarian Church, 1738 North Sage Street, Los Alamos, NM</li>
+					<li>Drop-in: $15; 4-punch pass: $50; 8-punch pass: $92</li>
+				</ul>
+			</li>
 			<li>Thursdays, 5:45-6:45 pm</li>
-			<p>Los Alamos Senior Center, 1101 Bathrub Row, Los Alamos</p>
-			<p>Drop in: $12<b>(First class free!)</b>; 4-punch pass: $40; 8-punch pass: $72</p>
+			<li style="list-style-type:none">
+				<ul>
+					<li>Los Alamos Senior Center, 1101 Bathrub Row, Los Alamos, NM</li>
+					<li>Drop in: $12<b>(First class free!)</b>; 4-punch pass: $40; 8-punch pass: $72</li>
+				</ul>
+			</li>
 		</ul>
+		<h5>Family Yoga: ages 2-5 with an adult</h5>
+		<ul>
+			<li>Tuesdays, 9:30-10:15 am</li>
+			<li style="list-style-type:none">
+				<ul>
+					<li>Family Strengths Network, 3540 Orange Street, Los Alamos, NM</li>
+					<li>Free to FSN Partners; $10 or 6 classes for $50 for non-members</li>
+				</ul>
+			</li>
+		</ul>
+
+
 	 </div>
 	 <div class="container pt-5">
 		 <h2>Send Sarah a Note!</h2>
@@ -128,6 +149,9 @@
 		 </form>
 	 </div>
 
+	 <div class="sqs-block-content">
+		 <hr>
+	 </div>
 
  </body>
 </html>
