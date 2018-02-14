@@ -11,6 +11,10 @@ Global Styles
 Header
 ****/
 
+.navbar-brand{
+	height: 40px;
+	width: 40px;
+}
 
 img {
 	 display: block;

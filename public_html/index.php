@@ -22,26 +22,25 @@
 </head>
 
 	<body>
-		<header>
-			<!-- Navigation --->
-			<div class="container-fluid">
-				<nav class="navbar navbar-expand-md navbar-toggleable-sm navbar-light border rounded">
-					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
-							  aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-						<span class="navbar-toggler-icon"></span>
-					</button>
 
-					<div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
-						<div class="navbar-nav">
-							<a class="nav-tem nav-link" href="#">About Sarah</a>
-							<a class="nav-tem nav-link" href="#">Private Classes</a>
-							<a class="nav-tem nav-link" href="#">Public Classes</a>
-							<a class="nav-tem nav-link" href="#">Contact</a>
-						</div>
+		<!-- Navigation --->
+		<header>
+			<nav class="navbar navbar-expand-lg navbar-light bg-light">
+				<a class="navbar-brand" href="#">
+					<img src="images/sarahLogo.jpg" alt="yoga logo">
+				</a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">Menu</button>
+				<div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
+					<div class="navbar-nav text-center">
+						<a class="nav-item nav-link" href="#">About Sarah</a>
+						<a class="nav-item nav-link" href="#">Private Classes</a>
+						<a class="nav-item nav-link" href="#">Public Classes</a>
+						<a class="nav-item nav-link" href="#">Contact</a>
 					</div>
-				</nav>
-			</div>
-		</header>
+				</div>
+			</nav>
+
+
 
 		<!-- Intro Section -->
 
