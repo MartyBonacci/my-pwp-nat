@@ -7,41 +7,61 @@
 	<meta name="viewport" content="width=device-wdth, initial-scale=1, shrink-to-fit=no">
 
 
-	<!--- Next add the bootstrap CSS --->
+	<!--- Latest compiled and minified Bootstrap CSS --->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-	<!-- Add your own CSS here, -->
+
+	<!-- My custom CSS -->
 	<link rel="stylesheet" href="css/main.css">
 	<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+
 	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
 	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
 </head>
- <body>
 
+	<body>
+		<header>
+			<!-- Navigation --->
+			<div class="container-fluid">
+				<nav class="navbar navbar-expand-md navbar-toggleable-sm navbar-light border rounded">
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+							  aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
 
-	 <div class="container-fluid">
-		 <a class="navbar-brand" href="#">Sarah Gustafson Yoga</a>
-		 <nav class="navbar navbar-expand-lg navbar-toggleable-md float-md-right navbar-light bg-light border rounded">
-			 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-				 <span class="navbar-toggler-icon"></span>
-			 </button>
-			 <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
-				 <div class="navbar-nav">
-					 <a class="nav-tem nav-link" href="#">About Sarah</a>
-					 <a class="nav-tem nav-link" href="#">Private Classes</a>
-					 <a class="nav-tem nav-link" href="#">Group Classes and Schedule</a>
-					 <a class="nav-tem nav-link" href="#">Contact</a>
-				 </div>
-			 </div>
-		 </nav>
-		 <img src="images/sarah-gustafson-yoga-landscape.jpg" alt="Sarah Gustafson's Yoga landing image">
+					<div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
+						<div class="navbar-nav">
+							<a class="nav-tem nav-link" href="#">About Sarah</a>
+							<a class="nav-tem nav-link" href="#">Private Classes</a>
+							<a class="nav-tem nav-link" href="#">Public Classes</a>
+							<a class="nav-tem nav-link" href="#">Contact</a>
+						</div>
+					</div>
+				</nav>
+			</div>
+		</header>
 
-	 </div>
+		<!-- Intro Section -->
+
+		<section id="intro" class="intro-section">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<img src="images/sarah-gustafson-yoga-landscape.jpg" class="image" alt="Sarah Gustafson's yoga page landscape image">
+						<h1>Sarah Gustafson Yoga</h1>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<!--Page Break-->
 	 <div class="sqs-block-content">
 		 <hr>
 	 </div>
+
+		<!-- About Sarah Section-->
 	 <div class="container py-5">
 			 <h2>About Sarah</h2>
 		 <div class="row">
@@ -76,9 +96,13 @@
 			 </div>
 		 </div>
 	 </div>
+
+		<!-- Page Break -->
 	 <div class="sqs-block-content">
 		 <hr>
 	 </div>
+
+		<!-- Private Class Section -->
 	 <div class="container">
 		 <h2>Private Classes</h2>
 		 <p>Sarah seeks to improve the overall health and well-being of her clients by offering private sessions that are integrative, educational, and rejuvenating. She often collaborates with local physical therapists and other body workers to facilitate patient recovery.</p>
@@ -92,13 +116,16 @@
 		 </ul>
 		 </p>
 	 </div>
+
+		<!-- Page Break -->
 	 <div class="sqs-block-content">
 		 <hr>
 	 </div>
 
-
+		<!-- Public Classes Section -->
 	 <div class="container">
 		<h2>Public Classes</h2>
+		<h6>Reduce stress and increase energy while gaining strength, flexibility, and focus.</h6>
 		<p>Prajna Yoga integrates the outer practice of asana with deep insight into the inner experience. Sarah’s skillfully sequenced classes combine guided alignment and somatic awareness with breath-based movement to nourish and challenge students of all levels.
 		</p>
 		<h5>Mixed-level adult classes: beginners and all body types welcome</h5>
@@ -129,7 +156,7 @@
 			</li>
 		</ul>
 
-
+		<!-- Contact Form -->
 	 </div>
 	 <div class="container pt-5">
 		 <h2>Send Sarah a Note!</h2>
