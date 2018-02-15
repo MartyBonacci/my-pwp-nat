@@ -43,7 +43,14 @@
 
 		<!-- Intro Section -->
 
-		<div class="card">
+		<section class="main-image">
+			<div class="container">
+				<div class="row">
+					<h3>Two Pugs Yoga</h3>
+				</div>
+			</div>
+		</section>
+		<!--<div class="card">
 			<div id="main-image">
 				<a href="#">
 					<img src="images/sarah-gustafson-yoga-landscape.jpg" class=" class-image img-responsive landing-image" alt="Sarah Gustafson's yoga page landscape image">

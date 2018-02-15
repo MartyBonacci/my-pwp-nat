@@ -20,42 +20,38 @@ Header
 .navbar{
 	background-color: rgba(161, 190, 217, 0.75);
 }
+
+.navbar-brand{
+	display: block !important;
+}
 .navbar-brand img{
 	height: 40px;
 	width: 40px;
 	border-radius: 50%;
 }
 
+@media only screen and (max-width: 500px){
+	.navbar{
+		flex-direction: column;
+	}
+	.navbar-brand{
+		padding-left: 15px;
+	}
+}
+
 /****
 Landing
 ****/
 
-/*
-Why can't I change font size of .card-text class but I can in the card-img-overlay
-Fix the cart-text to the parent card
- */
+.main-image{
+	background: url("../images/sarah-gustafson-yoga-landscape.jpg");
+	background-size: cover;
+	height: 100vh;
+	display: flex;
+	background-position: 20%;
 
-
-#main-image img{
-	margin: 0 auto;
-	max-width: 100%;
-	position: relative;
 }
 
-#main-image a{
-	margin: 0 auto;
-	padding: 0;
-	text-decoration: none;
-}
-
-
-/*#main-image p{
-	position: absolute;
-	max-width: 100%;
-	font-size: 2em;
-	text-align: center;
-}
-*/
 .headshot{
 	max-width: 90%;
 }
