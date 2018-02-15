@@ -44,14 +44,14 @@
 		<!-- Intro Section -->
 
 		<div class="card">
-			<section id="main-image">
+			<div id="main-image">
 				<a href="#">
 					<img src="images/sarah-gustafson-yoga-landscape.jpg" class=" class-image img-responsive landing-image" alt="Sarah Gustafson's yoga page landscape image">
-					<div class="card-img-overlay">
-						<p class="card-text">Two Pugs Yoga</p>
+					<div class="card-img-overlay d-flex justify-content-end">
+						<h5 class="card-text text-right">Two Pugs Yoga</h5>
 					</div>
 				</a>
-			</section>
+			</div>
 		</div>
 
 		<!--Page Break-->

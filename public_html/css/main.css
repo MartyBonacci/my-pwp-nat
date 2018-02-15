@@ -31,13 +31,10 @@ Landing
 ****/
 
 /*
-Why can't I change font size of .card-text class
+Why can't I change font size of .card-text class but I can in the card-img-overlay
+Fix the cart-text to the parent card
  */
-.card-text{
-	padding: 8.25rem 0 0 8rem;
-	font-size: x-small; !important;
 
-}
 
 #main-image img{
 	margin: 0 auto;
@@ -52,13 +49,13 @@ Why can't I change font size of .card-text class
 }
 
 
-#main-image p{
+/*#main-image p{
 	position: absolute;
 	max-width: 100%;
 	font-size: 2em;
 	text-align: center;
 }
-
+*/
 .headshot{
 	max-width: 90%;
 }
