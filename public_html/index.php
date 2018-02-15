@@ -180,7 +180,7 @@
 
 	<footer class="container">
 		<div class="text-center center-block">
-			<p class="txt-railway">Website crafted by Nathaniel Gustafson</p>
+			<p class="txt-railway">Website crafted by Nathaniel Gustafsonh</p>
 			<a href="https://www.linkedin.com/in/nathanielgustafson/"><img class="linkedin" src="images/linkedin-logo.jpg" alt="linked in logo"></a>
 		</div>
 	</footer>
