@@ -4,7 +4,7 @@
 <head>
 	<title>Sarah Gustafson Yoga</title>
 	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-wdth, initial-scale=1, shrink-to-fit=no">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 
 	<!--- Latest compiled and minified Bootstrap CSS --->
@@ -25,7 +25,7 @@
 
 		<!-- Navigation --->
 		<header>
-			<nav class="navbar navbar-expand-lg navbar-light bg-light">
+			<nav class="navbar navbar-expand-md navbar-light">
 				<a class="navbar-brand" href="#">
 					<img src="images/sarahLogo.jpg" alt="yoga logo">
 				</a>
@@ -39,21 +39,20 @@
 					</div>
 				</div>
 			</nav>
-
-
+		</header>
 
 		<!-- Intro Section -->
 
-		<section id="intro" class="intro-section">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-12">
-						<img src="images/sarah-gustafson-yoga-landscape.jpg" class="image" alt="Sarah Gustafson's yoga page landscape image">
-						<h1>Sarah Gustafson Yoga</h1>
+		<div class="card">
+			<section id="main-image">
+				<a href="#">
+					<img src="images/sarah-gustafson-yoga-landscape.jpg" class=" class-image img-responsive landing-image" alt="Sarah Gustafson's yoga page landscape image">
+					<div class="card-img-overlay">
+						<p class="card-text">Two Pugs Yoga</p>
 					</div>
-				</div>
-			</div>
-		</section>
+				</a>
+			</section>
+		</div>
 
 		<!--Page Break-->
 	 <div class="sqs-block-content">
@@ -77,7 +76,7 @@
 					 their psoas.</p>
 			 </div>
 			 <div class="col-sm-12 col-lg-4">
-				 <img src="images/sarah-gustafson-headshot.jpg" class="image-thumbnail" alt="Sarah Gustafson's Headshot">
+				 <img src="images/sarah-gustafson-headshot.jpg" class="image-thumbnail headshot" alt="Sarah Gustafson's Headshot">
 			 </div>
 			 <div class="col-sm-12 col-lg-4">
 				 <p>A lifelong student, Sarah’s primary teachers are <a href="http://www.prajnayoga.net/tias-little/" target="_blank">Tias</a> and <a href="http://www.prajnayoga.net/surya/" target="_blank">Surya</a> Little, founders
@@ -178,6 +177,13 @@
 	 <div class="sqs-block-content">
 		 <hr>
 	 </div>
+
+	<footer class="container">
+		<div class="text-center center-block">
+			<p class="txt-railway">Website crafted by Nathaniel Gustafson</p>
+			<a href="https://www.linkedin.com/in/nathanielgustafson/"><img class="linkedin" src="images/linkedin-logo.jpg" alt="linked in logo"></a>
+		</div>
+	</footer>
 
  </body>
 </html>

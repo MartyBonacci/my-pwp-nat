@@ -1,4 +1,10 @@
 /****
+OK, current iteration of the website adds cool js that will roll out and expand the logo when clicked.
+
+Gallery will include photos of the kids yoga class, possibly more yoga poses of Sarah.
+
+ */
+/****
 Custom Style Sheet
 ****/
 
@@ -11,15 +17,63 @@ Global Styles
 Header
 ****/
 
-.navbar-brand{
+.navbar{
+	background-color: rgba(161, 190, 217, 0.75);
+}
+.navbar-brand img{
 	height: 40px;
 	width: 40px;
+	border-radius: 50%;
 }
 
-img {
-	 display: block;
-	 max-width: 100%;
-	 height: auto;
- }
+/****
+Landing
+****/
+
+/*
+Why can't I change font size of .card-text class
+ */
+.card-text{
+	padding: 8.25rem 0 0 8rem;
+	font-size: x-small; !important;
+
+}
+
+#main-image img{
+	margin: 0 auto;
+	max-width: 100%;
+	position: relative;
+}
+
+#main-image a{
+	margin: 0 auto;
+	padding: 0;
+	text-decoration: none;
+}
 
 
+#main-image p{
+	position: absolute;
+	max-width: 100%;
+	font-size: 2em;
+	text-align: center;
+}
+
+.headshot{
+	max-width: 90%;
+}
+
+
+
+/****
+Footer
+****/
+
+footer{
+	background-color: rgb(100, 145, 227);
+	color: rgb(94, 102, 112);
+}
+.linkedin{
+	height: 2em;
+	width: auto;
+}
