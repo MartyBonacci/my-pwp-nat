@@ -46,7 +46,7 @@
 		<section class="main-image">
 			<div class="container">
 				<div class="row">
-					<h3>Two Pugs Yoga</h3>
+					<h2 class="intro-text">Two Pugs Yoga</h2>
 				</div>
 			</div>
 		</section>
@@ -185,9 +185,9 @@
 		 <hr>
 	 </div>
 
-	<footer class="container">
+	<footer class="container-fluid">
 		<div class="text-center center-block">
-			<p class="txt-railway">Website crafted by Nathaniel Gustafsonh</p>
+			<p class="txt-railway">Website crafted by Nathaniel Gustafson</p>
 			<a href="https://www.linkedin.com/in/nathanielgustafson/"><img class="linkedin" src="images/linkedin-logo.jpg" alt="linked in logo"></a>
 		</div>
 	</footer>

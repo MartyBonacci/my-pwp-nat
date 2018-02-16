@@ -3,6 +3,13 @@ OK, current iteration of the website adds cool js that will roll out and expand 
 
 Gallery will include photos of the kids yoga class, possibly more yoga poses of Sarah.
 
+
+Questions for Rochelle:
+-I am struggling with using the section as my flex parent and moving text around with css, I played with the padding, but that is a bit glitchy.
+-How can I tell that I need to override css?
+-Why isn't picture scaling at all?
+-Where would you put the main text?
+
  */
 /****
 Custom Style Sheet
@@ -11,6 +18,10 @@ Custom Style Sheet
 /****
 Global Styles
 ****/
+
+body{
+	font-family: "Comic Sans MS";
+}
 
 
 /****
@@ -37,6 +48,10 @@ Header
 	.navbar-brand{
 		padding-left: 15px;
 	}
+
+	.main-image{
+		background-position:20% !important;
+	}
 }
 
 /****
@@ -47,9 +62,14 @@ Landing
 	background: url("../images/sarah-gustafson-yoga-landscape.jpg");
 	background-size: cover;
 	height: 100vh;
+	/*is there a better way to set the height? Marty and I used vh*/
 	display: flex;
-	background-position: 20%;
+}
 
+.intro-text{
+	display: flex;
+	font-size: 3em;
+	justify-content: flex-end;
 }
 
 .headshot{
