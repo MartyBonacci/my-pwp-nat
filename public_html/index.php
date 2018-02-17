@@ -90,7 +90,7 @@
 					 of <a href="http://www.prajnayoga.net/" target="_blank">Prajna Yoga</a>, a world-renowned school that weaves asana, anatomy, and
 					 mindfulness training. Sarah assists at Prajna Teacher Trainings and workshops
 					 in Santa Fe on a regular basis, and is one of the few instructors certified to teach
-					 Prajna’s SATYA movements. Sarah also trains in therapeutic yoga with <a href="https://essentialyogatherapy.com/about/" target="_blank">Robin
+					 Prajna’s <a href="http://www.prajnayoga.net/yoga-training/satya/" target="_blank">SATYA</a> movements. Sarah also trains in therapeutic yoga with <a href="https://essentialyogatherapy.com/about/" target="_blank">Robin
 						 Rothenberg</a>, and is certified to teach Robin’s highly effective <a href="https://essentialyogatherapy.com/essential-low-back-teacher-training/" target="_blank">Essential Low Back
 						 Program</a>.</p>
 				 <p>When she’s not on the mat, Sarah’s probably outside growing food and flowers,hiking, or rock climbing with her husband and pugs. The mother of three adult
@@ -103,13 +103,56 @@
 	 </div>
 
 		<!-- Page Break -->
+		<div class="sqs-block-content">
+			<hr>
+		</div>
+
+		<!-- Public Classes Section -->
+		<div class="container">
+			<h2>Adult Classes</h2>
+			<h6>Reduce stress and increase energy while gaining strength, flexibility, and focus.</h6>
+			<p>Prajna Yoga integrates the outer practice of asana with deep insight into the inner experience. Sarah’s skillfully sequenced classes combine guided alignment and somatic awareness with breath-based movement to nourish and challenge students of all levels.
+			</p>
+			<h5>Mixed-level adult classes: beginners and all body types welcome</h5>
+			<ul>
+				<li>Mondays, 6:00-7:30 pm (except most Monday holidays)</li>
+				<li style="list-style-type:none">
+					<ul>
+						<li>Unitarian Church, 1738 North Sage Street, Los Alamos, NM</li>
+						<li>Drop-in: $15; 4-punch pass: $50; 8-punch pass: $92</li>
+					</ul>
+				</li>
+				<li>Thursdays, 5:45-6:45 pm</li>
+				<li style="list-style-type:none">
+					<ul>
+						<li>Los Alamos Senior Center, 1101 Bathtub Row, Los Alamos, NM</li>
+						<li>Drop in: $12 <b>(First class free!)</b>; 4-punch pass: $40; 8-punch pass: $72</li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+		<div class="container">
+			<h2>Family Yoga</h2>
+			<h6>Designed for ages 2-5 with an adult, Family Yoga weaves poses into story, song, and games to foster creative expression while developing sensorimotor skills, balance, and coordination.</h6>
+			<ul>
+				<li>Tuesdays, 9:30-10:15 am</li>
+				<li style="list-style-type:none">
+					<ul>
+						<li>Family Strengths Network, 3540 Orange Street, Los Alamos, NM</li>
+						<li>Free to FSN Partners; $10 or 6 classes for $50 for non-members</li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+
+		<!-- Page Break -->
 	 <div class="sqs-block-content">
 		 <hr>
 	 </div>
 
 		<!-- Private Class Section -->
 	 <div class="container">
-		 <h2>Private Classes</h2>
+		 <h2>Private Sessions</h2>
 		 <p>Sarah seeks to improve the overall health and well-being of her clients by offering private sessions that are integrative, educational, and rejuvenating. She often collaborates with local physical therapists and other body workers to facilitate patient recovery.</p>
 		 <p>Private sessions also provide the opportunity to focus on:</p>
 		 <ul>
@@ -127,39 +170,6 @@
 		 <hr>
 	 </div>
 
-		<!-- Public Classes Section -->
-	 <div class="container">
-		<h2>Public Classes</h2>
-		<h6>Reduce stress and increase energy while gaining strength, flexibility, and focus.</h6>
-		<p>Prajna Yoga integrates the outer practice of asana with deep insight into the inner experience. Sarah’s skillfully sequenced classes combine guided alignment and somatic awareness with breath-based movement to nourish and challenge students of all levels.
-		</p>
-		<h5>Mixed-level adult classes: beginners and all body types welcome</h5>
-		<ul>
-			<li>Mondays, 6:00-7:30 pm (except most Monday holidays)</li>
-			<li style="list-style-type:none">
-				<ul>
-					<li>Unitarian Church, 1738 North Sage Street, Los Alamos, NM</li>
-					<li>Drop-in: $15; 4-punch pass: $50; 8-punch pass: $92</li>
-				</ul>
-			</li>
-			<li>Thursdays, 5:45-6:45 pm</li>
-			<li style="list-style-type:none">
-				<ul>
-					<li>Los Alamos Senior Center, 1101 Bathrub Row, Los Alamos, NM</li>
-					<li>Drop in: $12<b>(First class free!)</b>; 4-punch pass: $40; 8-punch pass: $72</li>
-				</ul>
-			</li>
-		</ul>
-		<h5>Family Yoga: ages 2-5 with an adult</h5>
-		<ul>
-			<li>Tuesdays, 9:30-10:15 am</li>
-			<li style="list-style-type:none">
-				<ul>
-					<li>Family Strengths Network, 3540 Orange Street, Los Alamos, NM</li>
-					<li>Free to FSN Partners; $10 or 6 classes for $50 for non-members</li>
-				</ul>
-			</li>
-		</ul>
 
 		<!-- Contact Form -->
 	 </div>
