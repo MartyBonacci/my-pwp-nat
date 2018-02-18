@@ -145,6 +145,10 @@
 			</ul>
 		</div>
 
+
+		<!-- Testimonial/photo gallery
+		Make cards to go in coursel. Media query sets the cards to just be testimonial at mobile size and then break to be a new class of card with photo and text
+		--->
 		<!-- Page Break -->
 	 <div class="sqs-block-content">
 		 <hr>
