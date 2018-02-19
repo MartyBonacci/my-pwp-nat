@@ -63,11 +63,11 @@ Landing
 ****/
 
 .main-image{
-	background: url("../images/sarah-gustafson-yoga-landscape.jpg");
+	background: url("../images/yogaBlueTopBanner.jpg");
 	background-size: cover;
 	height: 100vh;
 	/*is there a better way to set the height? Marty and I used vh*/
-	display: flex;
+	display: flex !important;
 }
 
 .intro-text{

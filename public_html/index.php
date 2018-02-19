@@ -32,10 +32,10 @@
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">Menu</button>
 				<div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
 					<div class="navbar-nav text-center">
-						<a class="nav-item nav-link" href="#">About Sarah</a>
-						<a class="nav-item nav-link" href="#">Private Classes</a>
-						<a class="nav-item nav-link" href="#">Public Classes</a>
-						<a class="nav-item nav-link" href="#">Contact</a>
+						<a class="nav-item nav-link" href="#aboutSarah">About Sarah</a>
+						<a class="nav-item nav-link" href="#privateClass">Private Classes</a>
+						<a class="nav-item nav-link" href="#publicClasses">Public Classes</a>
+						<a class="nav-item nav-link" href="#contact">Contact</a>
 					</div>
 				</div>
 			</nav>
@@ -67,7 +67,7 @@
 	 </div>
 
 		<!-- About Sarah Section-->
-	 <div class="container py-5">
+	 <div id="aboutSarah" class="container py-5">
 			 <h2>About Sarah</h2>
 		 <div class="row">
 			 <div class="col-sm-12 col-lg-4">
@@ -108,7 +108,7 @@
 		</div>
 
 		<!-- Public Classes Section -->
-		<div class="container">
+		<div id="publicClasses" class="container">
 			<h2>Adult Classes</h2>
 			<h6>Reduce stress and increase energy while gaining strength, flexibility, and focus.</h6>
 			<p>Prajna Yoga integrates the outer practice of asana with deep insight into the inner experience. Sarah’s skillfully sequenced classes combine guided alignment and somatic awareness with breath-based movement to nourish and challenge students of all levels.
@@ -145,7 +145,6 @@
 			</ul>
 		</div>
 
-
 		<!-- Testimonial/photo gallery
 		Make cards to go in coursel. Media query sets the cards to just be testimonial at mobile size and then break to be a new class of card with photo and text
 		--->
@@ -155,7 +154,7 @@
 	 </div>
 
 		<!-- Private Class Section -->
-	 <div class="container">
+	 <div id="privateClass" class="container">
 		 <h2>Private Sessions</h2>
 		 <p>Sarah seeks to improve the overall health and well-being of her clients by offering private sessions that are integrative, educational, and rejuvenating. She often collaborates with local physical therapists and other body workers to facilitate patient recovery.</p>
 		 <p>Private sessions also provide the opportunity to focus on:</p>
@@ -174,10 +173,19 @@
 		 <hr>
 	 </div>
 
+	<div class="container">
+		<div class="row">
+			<p>You will never be on autopilot in a class led by Sarah. Her dedication
+				to continuous learning and her ease with words make every class fresh:
+				new material, new ways to illuminate asanas you thought you knew.
+				She offers careful attention to each student, offering adjustments
+				or suggestions that, while subtle, can result in great improvement
+				in form.</p>
+		</div>
+	</div>
 
 		<!-- Contact Form -->
-	 </div>
-	 <div class="container pt-5">
+	 <div id="contact" class="container">
 		 <h2>Send Sarah a Note!</h2>
 		 <form class="container p-3" style="border:1px solid #cecece">
 			 <div class="form-group row pl-3 pr-3">
