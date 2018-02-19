@@ -49,19 +49,9 @@
 		<section>
 			<div class="container-fluid main-image"">
 					<h2 class="intro-text">Two Pugs Yoga</h2>
-				</div>
 			</div>
 		</section>
-		<!--<div class="card">
-			<div id="main-image">
-				<a href="#">
-					<img src="images/sarah-gustafson-yoga-landscape.jpg" class=" class-image img-responsive landing-image" alt="Sarah Gustafson's yoga page landscape image">
-					<div class="card-img-overlay d-flex justify-content-end">
-						<h5 class="card-text text-right">Two Pugs Yoga</h5>
-					</div>
-				</a>
-			</div>
-		</div>
+
 
 		<!--Page Break-->
 	 <div class="sqs-block-content">
@@ -150,87 +140,43 @@
 		<!-- Testimonial/photo gallery
 		Make cards to go in carousel. Media query sets the cards to just be testimonial at mobile size and then break to be a new class of card with photo and text
 		--->
-		<div class="card-container container"
-			  <div class="row">
-				  <div class="card">
-					  <div class="side">
-						  <img class="tracyBack img-thumbnail" src="images/tracyBack.jpg" alt="Tracy back">
-						  <div class ="side back">
-							  <p>The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy My brothers. And you will know My name is the Lord when I lay My vengeance upon thee.</p>
-						  </div>
-					  </div>
-				  </div>
-			  </div>
-		<!--		<div class="row">-->
-<!--			<div class="col-sm-3">-->
-<!--				<div class="flip">-->
-<!--					<div class="card">-->
-<!--						<div class="face front">-->
-<!--							<div class="inner">-->
-<!--								<img src="images/tracyBack.jpg">-->
-<!--							</div>-->
-<!--						</div>-->
-<!--						<div class="face back">-->
-<!--							<div class="inner text-center">-->
-<!--								<h3>Improved efficiency through automation</h3>-->
-<!--								<button type="button" class="btn btn-default">Know More</button>-->
+		<div class="container testimonials">
+			<div class="row">
+				<div class="card border-0 col-xs-12 col-md-6 col-lg-3">
+					<figure class="front">
+						<img class="card-img-top rounded-circle" src="images/tracyBack.jpg" alt="tracy's back">
+					</figure>
+					<figure class="back">
+						<p class="card-text bg-light border rounded m-2 text-center p-2">Lorem ipsum dolor amet mumblecore microdosing palo santo, hell of readymade pug trust fund roof party deep v mlkshk you probably haven't heard of them green juice thundercats man braid chartreuse. Mlkshk next level seitan asymmetrical la croix kickstarter twee. </p>
+					</figure>
+				</div>
+			</div>
+		</div>
+<!--		<div class="container"-->
+<!--			  <div class="card-container"-->
+<!--					<div class="row">-->
+<!--						<div class="card card border-0 col-xs-12 col-md-6 col-lg-3">-->
+<!--							<div class="front">-->
+<!--								<img class="tracyBack img-thumbnail" src="images/tracyBack.jpg" alt="Tracy back">-->
+<!--								<div class ="back">-->
+<!--									<p>The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy My brothers. And you will know My name is the Lord when I lay My vengeance upon thee.</p>-->
+<!--								</div>-->
 <!--							</div>-->
 <!--						</div>-->
 <!--					</div>-->
-<!--				</div>-->
-<!--			</div>-->
-<!--			<div class="col-sm-3">-->
-<!--				<div class="flip">-->
-<!--					<div class="card">-->
-<!--						<div class="face front">-->
-<!--							<div class="inner">-->
-<!--								<img src="images/tracyBack.jpg">-->
-<!--							</div>-->
-<!--						</div>-->
-<!--						<div class="face back">-->
-<!--							<div class="inner text-center">-->
-<!--								<h3>Improved efficiency through automation</h3>-->
-<!--								<button type="button" class="btn btn-default">Know More</button>-->
-<!--							</div>-->
-<!--						</div>-->
-<!--					</div>-->
-<!--				</div>-->
-<!--			</div>-->
-<!--			<div class="col-sm-3">-->
-<!--				<div class="flip">-->
-<!--					<div class="card">-->
-<!--						<div class="face front">-->
-<!--							<div class="inner">-->
-<!--								<img src="images/tracyBack.jpg">-->
-<!--							</div>-->
-<!--						</div>-->
-<!--						<div class="face back">-->
-<!--							<div class="inner text-center">-->
-<!--								<h3>Improved efficiency through automation</h3>-->
-<!--								<button type="button" class="btn btn-default">Know More</button>-->
-<!--							</div>-->
-<!--						</div>-->
-<!--					</div>-->
-<!--				</div>-->
-<!--			</div>-->
-<!--			<div class="col-sm-3">-->
-<!--				<div class="flip">-->
-<!--					<div class="card">-->
-<!--						<div class="face front">-->
-<!--							<div class="inner">-->
-<!--								<img src="images/tracyBack.jpg">-->
-<!--							</div>-->
-<!--						</div>-->
-<!--						<div class="face back">-->
-<!--							<div class="inner text-center">-->
-<!--								<h3>Improved efficiency through automation</h3>-->
-<!--								<button type="button" class="btn btn-default">Know More</button>-->
-<!--							</div>-->
+<!--		<div class="card-container"-->
+<!--			<div class="row">-->
+<!--				<div class="card card border-0 col-xs-12 col-md-6 col-lg-3">-->
+<!--					<div class="front">-->
+<!--						<img class="tracyBack img-thumbnail" src="images/tracyBack.jpg" alt="Tracy back">-->
+<!--						<div class ="back">-->
+<!--							<p>The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy My brothers. And you will know My name is the Lord when I lay My vengeance upon thee.</p>-->
 <!--						</div>-->
 <!--					</div>-->
 <!--				</div>-->
 <!--			</div>-->
 <!--		</div>-->
+
 		<!-- Page Break -->
 	 <div class="sqs-block-content">
 		 <hr>
