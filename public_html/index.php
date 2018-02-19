@@ -150,76 +150,87 @@
 		<!-- Testimonial/photo gallery
 		Make cards to go in carousel. Media query sets the cards to just be testimonial at mobile size and then break to be a new class of card with photo and text
 		--->
-		<div class="row">
-			<div class="col-sm-3">
-				<div class="flip">
-					<div class="card">
-						<div class="face front">
-							<div class="inner">
-								<img src="/public_html/images/tracyBack.jpg">
-							</div>
-						</div>
-						<div class="face back">
-							<div class="inner text-center">
-								<h3>Improved efficiency through automation</h3>
-								<button type="button" class="btn btn-default">Know More</button>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-3">
-				<div class="flip">
-					<div class="card">
-						<div class="face front">
-							<div class="inner">
-								<img src="/public_html/images/tracyBack.jpg">
-							</div>
-						</div>
-						<div class="face back">
-							<div class="inner text-center">
-								<h3>Improved efficiency through automation</h3>
-								<button type="button" class="btn btn-default">Know More</button>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-3">
-				<div class="flip">
-					<div class="card">
-						<div class="face front">
-							<div class="inner">
-								<img src="/public_html/images/tracyBack.jpg">
-							</div>
-						</div>
-						<div class="face back">
-							<div class="inner text-center">
-								<h3>Improved efficiency through automation</h3>
-								<button type="button" class="btn btn-default">Know More</button>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-3">
-				<div class="flip">
-					<div class="card">
-						<div class="face front">
-							<div class="inner">
-								<img src="/public_html/images/tracyBack.jpg">
-							</div>
-						</div>
-						<div class="face back">
-							<div class="inner text-center">
-								<h3>Improved efficiency through automation</h3>
-								<button type="button" class="btn btn-default">Know More</button>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
+		<div class="card-container container"
+			  <div class="row">
+				  <div class="card">
+					  <div class="side">
+						  <img class="tracyBack img-thumbnail" src="images/tracyBack.jpg" alt="Tracy back">
+						  <div class ="side back">
+							  <p>The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy My brothers. And you will know My name is the Lord when I lay My vengeance upon thee.</p>
+						  </div>
+					  </div>
+				  </div>
+			  </div>
+		<!--		<div class="row">-->
+<!--			<div class="col-sm-3">-->
+<!--				<div class="flip">-->
+<!--					<div class="card">-->
+<!--						<div class="face front">-->
+<!--							<div class="inner">-->
+<!--								<img src="images/tracyBack.jpg">-->
+<!--							</div>-->
+<!--						</div>-->
+<!--						<div class="face back">-->
+<!--							<div class="inner text-center">-->
+<!--								<h3>Improved efficiency through automation</h3>-->
+<!--								<button type="button" class="btn btn-default">Know More</button>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--					</div>-->
+<!--				</div>-->
+<!--			</div>-->
+<!--			<div class="col-sm-3">-->
+<!--				<div class="flip">-->
+<!--					<div class="card">-->
+<!--						<div class="face front">-->
+<!--							<div class="inner">-->
+<!--								<img src="images/tracyBack.jpg">-->
+<!--							</div>-->
+<!--						</div>-->
+<!--						<div class="face back">-->
+<!--							<div class="inner text-center">-->
+<!--								<h3>Improved efficiency through automation</h3>-->
+<!--								<button type="button" class="btn btn-default">Know More</button>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--					</div>-->
+<!--				</div>-->
+<!--			</div>-->
+<!--			<div class="col-sm-3">-->
+<!--				<div class="flip">-->
+<!--					<div class="card">-->
+<!--						<div class="face front">-->
+<!--							<div class="inner">-->
+<!--								<img src="images/tracyBack.jpg">-->
+<!--							</div>-->
+<!--						</div>-->
+<!--						<div class="face back">-->
+<!--							<div class="inner text-center">-->
+<!--								<h3>Improved efficiency through automation</h3>-->
+<!--								<button type="button" class="btn btn-default">Know More</button>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--					</div>-->
+<!--				</div>-->
+<!--			</div>-->
+<!--			<div class="col-sm-3">-->
+<!--				<div class="flip">-->
+<!--					<div class="card">-->
+<!--						<div class="face front">-->
+<!--							<div class="inner">-->
+<!--								<img src="images/tracyBack.jpg">-->
+<!--							</div>-->
+<!--						</div>-->
+<!--						<div class="face back">-->
+<!--							<div class="inner text-center">-->
+<!--								<h3>Improved efficiency through automation</h3>-->
+<!--								<button type="button" class="btn btn-default">Know More</button>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--					</div>-->
+<!--				</div>-->
+<!--			</div>-->
+<!--		</div>-->
 		<!-- Page Break -->
 	 <div class="sqs-block-content">
 		 <hr>
