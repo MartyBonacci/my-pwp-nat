@@ -146,8 +146,22 @@
 		</div>
 
 		<!-- Testimonial/photo gallery
-		Make cards to go in coursel. Media query sets the cards to just be testimonial at mobile size and then break to be a new class of card with photo and text
+		Make cards to go in carousel. Media query sets the cards to just be testimonial at mobile size and then break to be a new class of card with photo and text
 		--->
+		<div id="carouselIndicators" class="carousel slide container" data-ride="carousel">
+			<div class="carousel-inner row" role="listbox">
+				<div class="carousel-item active">
+					<div
+				</div>
+				<div class="carousel-item">
+					<img class="d-block img-fluid" src="..." alt="Second slide">
+				</div>
+				<div class="carousel-item">
+					<img class="d-block img-fluid" src="..." alt="Third slide">
+				</div>
+			</div>
+			</a>
+		</div>
 		<!-- Page Break -->
 	 <div class="sqs-block-content">
 		 <hr>

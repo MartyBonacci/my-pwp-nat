@@ -66,14 +66,12 @@ Landing
 	background: url("../images/yogaBlueTopBanner.jpg");
 	background-size: cover;
 	height: 100vh;
-	/*is there a better way to set the height? Marty and I used vh*/
 	display: flex !important;
+	justify-content: center;
 }
 
 .intro-text{
-	display: flex;
 	font-size: 3em;
-	justify-content: flex-end;
 }
 
 .headshot{
