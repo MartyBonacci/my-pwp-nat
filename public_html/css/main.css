@@ -5,10 +5,8 @@ Gallery will include photos of the kids yoga class, possibly more yoga poses of 
 
 
 Questions for Rochelle:
--I am struggling with using the section as my flex parent and moving text around with css, I played with the padding, but that is a bit glitchy.
 -How can I tell that I need to override css?
 -Why isn't picture scaling at all?
--Where would you put the main text?
 
  */
 /****
@@ -41,7 +39,7 @@ Header
 	border-radius: 50%;
 }
 
-@media only screen and (max-width: 500px){
+@media only screen and (max-width: 650px){
 	.navbar{
 		flex-direction: column;
 	}

@@ -43,9 +43,8 @@
 
 		<!-- Intro Section -->
 
-		<section class="main-image">
-			<div class="container">
-				<div class="row">
+		<section>
+			<div class="container-fluid main-image"">
 					<h2 class="intro-text">Two Pugs Yoga</h2>
 				</div>
 			</div>
@@ -148,19 +147,75 @@
 		<!-- Testimonial/photo gallery
 		Make cards to go in carousel. Media query sets the cards to just be testimonial at mobile size and then break to be a new class of card with photo and text
 		--->
-		<div id="carouselIndicators" class="carousel slide container" data-ride="carousel">
-			<div class="carousel-inner row" role="listbox">
-				<div class="carousel-item active">
-					<div
-				</div>
-				<div class="carousel-item">
-					<img class="d-block img-fluid" src="..." alt="Second slide">
-				</div>
-				<div class="carousel-item">
-					<img class="d-block img-fluid" src="..." alt="Third slide">
+		<div class="row">
+			<div class="col-sm-3">
+				<div class="flip">
+					<div class="card">
+						<div class="face front">
+							<div class="inner">
+								<img src="/public_html/images/tracyBack.jpg">
+							</div>
+						</div>
+						<div class="face back">
+							<div class="inner text-center">
+								<h3>Improved efficiency through automation</h3>
+								<button type="button" class="btn btn-default">Know More</button>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
-			</a>
+			<div class="col-sm-3">
+				<div class="flip">
+					<div class="card">
+						<div class="face front">
+							<div class="inner">
+								<img src="/public_html/images/tracyBack.jpg">
+							</div>
+						</div>
+						<div class="face back">
+							<div class="inner text-center">
+								<h3>Improved efficiency through automation</h3>
+								<button type="button" class="btn btn-default">Know More</button>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-3">
+				<div class="flip">
+					<div class="card">
+						<div class="face front">
+							<div class="inner">
+								<img src="/public_html/images/tracyBack.jpg">
+							</div>
+						</div>
+						<div class="face back">
+							<div class="inner text-center">
+								<h3>Improved efficiency through automation</h3>
+								<button type="button" class="btn btn-default">Know More</button>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-3">
+				<div class="flip">
+					<div class="card">
+						<div class="face front">
+							<div class="inner">
+								<img src="/public_html/images/tracyBack.jpg">
+							</div>
+						</div>
+						<div class="face back">
+							<div class="inner text-center">
+								<h3>Improved efficiency through automation</h3>
+								<button type="button" class="btn btn-default">Know More</button>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
 		<!-- Page Break -->
 	 <div class="sqs-block-content">
