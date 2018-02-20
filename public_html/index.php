@@ -159,6 +159,28 @@
 						</blockquote>
 					</div>
 				</div>
+				<div id="f1_container">
+					<div id="f1_card" class="shadow">
+						<div class="front face">
+							<img src="images/tracyBack.jpg"/>
+						</div>
+						<blockquote class="back face center blockquote">
+							<p class="mb-0">My 5-year-old and I disagree on just about everything, but going to Family Yoga every week is something we both absolutely love.</p>
+							<p class="blockquote-footer">KD</p>
+						</blockquote>
+					</div>
+				</div>
+				<div id="f1_container">
+					<div id="f1_card" class="shadow">
+						<div class="front face">
+							<img src="images/tracyBack.jpg"/>
+						</div>
+						<blockquote class="back face center blockquote">
+							<p class="mb-0">Yoga has changed my life by bringing greater peace and wellness into it. I started private lessons with Sarah after hip-replacement surgery a few years ago. Her expertise and individualized program is just what my body needs and wants.</p>
+							<p class="blockquote-footer">SB</p>
+						</blockquote>
+					</div>
+				</div>
 			</div>
 		</section>
 

@@ -124,7 +124,7 @@ Testimonials
 }
 .face.back {
 	max-height: 100%;
-	max-width: 90%;
+	max-width: 100%;
 	position: absolute;
 	display: inline;
 	transform: rotateY(180deg);
