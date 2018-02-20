@@ -140,22 +140,25 @@
 		<!-- Testimonial/photo gallery
 		I want to build cards that flip from a photo to a testimonial
 		--->
-		<div id="f1_container">
-			<div id="f1_card" class="shadow">
-				<div class="front face">
-					<img src="images/tracyBack.jpg"/>
+		<section class="testimonial">
+			<h2>Testimonials</h2>
+			<div id="f1_container">
+				<div id="f1_card" class="shadow">
+					<div class="front face">
+						<img src="images/tracyBack.jpg"/>
+					</div>
+					<blockquote class="back face center blockquote">
+						<p class="mb-0">You will never be on autopilot in a class led by Sarah. Her dedication
+							to continuous learning and her ease with words make every class fresh:
+							new material, new ways to illuminate asanas you thought you knew.
+							She offers careful attention to each student, offering adjustments
+							or suggestions that, while subtle, can result in great improvement
+							in form.</p>
+						<p class="blockquote-footer">Eduardo</p>
+					</blockquote>
 				</div>
-				<blockquote class="back face center blockquote">
-					<p class="mb-0">You will never be on autopilot in a class led by Sarah. Her dedication
-						to continuous learning and her ease with words make every class fresh:
-						new material, new ways to illuminate asanas you thought you knew.
-						She offers careful attention to each student, offering adjustments
-						or suggestions that, while subtle, can result in great improvement
-						in form.</p>
-					<p class="blockquote-footer">Eduardo</p>
-				</blockquote>
 			</div>
-		</div>
+		</section>
 
 		<!-- Page Break -->
 	 <div class="sqs-block-content">

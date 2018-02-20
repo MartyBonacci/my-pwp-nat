@@ -68,6 +68,8 @@ Landing
 	justify-content: center;
 }
 
+
+
 .intro-text{
 	font-size: 3em;
 }
@@ -127,66 +129,15 @@ Testimonials
 	display: inline;
 	transform: rotateY(180deg);
 	box-sizing: border-box;
-	padding: 30px;
 	color: black;
 	text-align: center;
-	background-color: #aaa;
+	background-color: rgba(161, 190, 217, 0.75);
 }
 
 .face.front {
 	max-height: 100%;
 	max-width: 100%;
 }
-/***
-.testimonials {
-	width: 90vh;
-	height: 25vh;
-	position: relative;
-	perspective: 800px;
-}
-
-.testimonials:hover .flipper, .testimonials.hover .flipper {
-	transform: rotateY(180deg);
-}
-
-.flip-container, .front, .back {
-	width: 320px;
-	height: 480px;
-}
-
-.card{
-	width: 100%;
-	height: 100%;
-	position: absolute;
-	transform-style: preserve-3d;
-	transition: transform 1s;
-}
-
-.card figure {
-	margin: 0;
-	display: block;
-	position: absolute;
-	width: 100%;
-	height: 100%;
-	backface-visibility: hidden;
-}
-
-.card .front {
-}
-.card .back {
-	transform: rotateY( 180deg );
-}
-
-.card .flipped {
-	transform: rotateY( 180deg );
-}
-
-***/
-/****
-Class Comment Cards
-****/
-
-
 
 /****
 Footer
