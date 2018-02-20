@@ -138,44 +138,24 @@
 		</div>
 
 		<!-- Testimonial/photo gallery
-		Make cards to go in carousel. Media query sets the cards to just be testimonial at mobile size and then break to be a new class of card with photo and text
+		I want to build cards that flip from a photo to a testimonial
 		--->
-		<div class="container testimonials">
-			<div class="row">
-				<div class="card border-0 col-xs-12 col-md-6 col-lg-3">
-					<figure class="front">
-						<img class="card-img-top rounded-circle" src="images/tracyBack.jpg" alt="tracy's back">
-					</figure>
-					<figure class="back">
-						<p class="card-text bg-light border rounded m-2 text-center p-2">Lorem ipsum dolor amet mumblecore microdosing palo santo, hell of readymade pug trust fund roof party deep v mlkshk you probably haven't heard of them green juice thundercats man braid chartreuse. Mlkshk next level seitan asymmetrical la croix kickstarter twee. </p>
-					</figure>
+		<div id="f1_container">
+			<div id="f1_card" class="shadow">
+				<div class="front face">
+					<img src="images/tracyBack.jpg"/>
+				</div>
+				<div class="back face center">
+					<p>
+					<p>You will never be on autopilot in a class led by Sarah. Her dedication
+						to continuous learning and her ease with words make every class fresh:
+						new material, new ways to illuminate asanas you thought you knew.
+						She offers careful attention to each student, offering adjustments
+						or suggestions that, while subtle, can result in great improvement
+						in form.</p>
 				</div>
 			</div>
 		</div>
-<!--		<div class="container"-->
-<!--			  <div class="card-container"-->
-<!--					<div class="row">-->
-<!--						<div class="card card border-0 col-xs-12 col-md-6 col-lg-3">-->
-<!--							<div class="front">-->
-<!--								<img class="tracyBack img-thumbnail" src="images/tracyBack.jpg" alt="Tracy back">-->
-<!--								<div class ="back">-->
-<!--									<p>The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy My brothers. And you will know My name is the Lord when I lay My vengeance upon thee.</p>-->
-<!--								</div>-->
-<!--							</div>-->
-<!--						</div>-->
-<!--					</div>-->
-<!--		<div class="card-container"-->
-<!--			<div class="row">-->
-<!--				<div class="card card border-0 col-xs-12 col-md-6 col-lg-3">-->
-<!--					<div class="front">-->
-<!--						<img class="tracyBack img-thumbnail" src="images/tracyBack.jpg" alt="Tracy back">-->
-<!--						<div class ="back">-->
-<!--							<p>The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy My brothers. And you will know My name is the Lord when I lay My vengeance upon thee.</p>-->
-<!--						</div>-->
-<!--					</div>-->
-<!--				</div>-->
-<!--			</div>-->
-<!--		</div>-->
 
 		<!-- Page Break -->
 	 <div class="sqs-block-content">
@@ -202,16 +182,6 @@
 		 <hr>
 	 </div>
 
-	<div class="container">
-		<div class="row">
-			<p>You will never be on autopilot in a class led by Sarah. Her dedication
-				to continuous learning and her ease with words make every class fresh:
-				new material, new ways to illuminate asanas you thought you knew.
-				She offers careful attention to each student, offering adjustments
-				or suggestions that, while subtle, can result in great improvement
-				in form.</p>
-		</div>
-	</div>
 
 		<!-- Contact Form -->
 	 <div id="contact" class="container">
