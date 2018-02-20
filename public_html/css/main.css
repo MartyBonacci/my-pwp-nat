@@ -121,11 +121,14 @@ Testimonials
 	backface-visibility: hidden;
 }
 .face.back {
-	display: block;
+	max-height: 100%;
+	max-width: 100%;
+	position: absolute;
+	display: inline;
 	transform: rotateY(180deg);
 	box-sizing: border-box;
-	padding: 10px;
-	color: white;
+	padding: 30px;
+	color: black;
 	text-align: center;
 	background-color: #aaa;
 }

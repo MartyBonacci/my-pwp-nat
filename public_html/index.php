@@ -145,15 +145,15 @@
 				<div class="front face">
 					<img src="images/tracyBack.jpg"/>
 				</div>
-				<div class="back face center">
-					<p>
-					<p>You will never be on autopilot in a class led by Sarah. Her dedication
+				<blockquote class="back face center blockquote">
+					<p class="mb-0">You will never be on autopilot in a class led by Sarah. Her dedication
 						to continuous learning and her ease with words make every class fresh:
 						new material, new ways to illuminate asanas you thought you knew.
 						She offers careful attention to each student, offering adjustments
 						or suggestions that, while subtle, can result in great improvement
 						in form.</p>
-				</div>
+					<p class="blockquote-footer">Eduardo</p>
+				</blockquote>
 			</div>
 		</div>
 
